@@ -3,6 +3,8 @@ In this repo I have implemented from scratch using pytorch the paper titled by N
 
 Using torchtext dataset Multi30k (translating from German to English), and comparing the two models, resulting that the proposed model achieves better performance on the test data with perplexity equal to 22.717, and for the basic enc-dec the perplexity equal to 55.738, which approves that the proposed model enhances the performance for the task of machine translation.
 
+Paper link: https://arxiv.org/pdf/1409.0473.pdf
+
 Paper github implementation: https://github.com/lisa-groundhog/GroundHog
 
 Reference source: https://github.com/bentrevett/pytorch-seq2seq
